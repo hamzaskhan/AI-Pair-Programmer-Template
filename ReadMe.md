@@ -2,8 +2,6 @@
 
 An automated code-review assistant that works alongside developers to detect design flaws, propose tests, and suggest refactors. It periodically scans a target codebase, retrieves the most relevant context with embeddings, and sends structured feedback to the terminal and (optionally) your Windows desktop.
 
-Built for the **Careem AI Challenge** — *"Design an AI that codes alongside developers."*
-
 ---
 
 ## Features
@@ -199,7 +197,3 @@ Ensure `.env` exists in the project root with a valid key, or export the variabl
 - [ ] Cross-platform notification support
 
 ---
-
-## License
-
-This project was built as part of the Careem AI Challenge. Add your license here if distributing publicly.
